@@ -9,7 +9,7 @@
   <img width="640" height="319" alt="image" src="https://github.com/user-attachments/assets/487c7e06-663b-47f2-b374-236bb1a1588d" />
 </div> -->
 
-<img align="right" src="https://github.com/user-attachments/assets/487c7e06-663b-47f2-b374-236bb1a1588d" />
+<img align="left" src="https://github.com/user-attachments/assets/487c7e06-663b-47f2-b374-236bb1a1588d" />
 
 &ensp;This project primarily aims to extract rhymes from Chinese poetry, providing statistical analysis of these rhymes to facilitate poetry enthusiasts' learning of commonly used rhymes by ancient poets and lyricists, thus supporting their own poetry creation. Future expansion will focus on rhyming in rap lyrics. 1. I discovered that the existing Python library pypinyin does not support phonetic loan characters and polyphonic characters, severely hindering Python's role in processing rhyme data from classical poetry. I will mine existing ancient texts and online data to establish a database of phonetic loan characters, using probability statistics and model training to identify this database, thus supporting rhyme extraction. 2. Future development may consider mini-programs and apps. 3. Expanding functionality to provide rhyme data analysis for rap lyrics, including double and triple rhymes, correlations between different vowels, and creating individual analysis reports for lyricists, poets, and rappers, including: commonly used vowels, rhymes, and expanded analysis of rhymes in dialect rap and multilingual rhyme analysis.
 
