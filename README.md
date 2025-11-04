@@ -4,7 +4,10 @@
   This project primarily aims to extract rhymes from Chinese poetry and provide statistical analysis of these rhymes. This will facilitate poetry enthusiasts' study of commonly used rhymes by ancient poets and writers, supporting their future poetry creation. Future updates will include functionality for extracting rhymes from rap song lyrics.
 
   该项目主要是为提取中国诗词的韵脚，提供诗词的韵脚相关统计分析，方便诗词爱好者学习古代诗人词人常用的韵脚，为后续个人的诗词创作提供支持。后续会针对说唱歌曲歌词的韵脚进行功能拓展。
-<img width="640" height="319" alt="image" src="https://github.com/user-attachments/assets/487c7e06-663b-47f2-b374-236bb1a1588d" />
+  
+<div align="center">
+  <img width="640" height="319" alt="image" src="https://github.com/user-attachments/assets/487c7e06-663b-47f2-b374-236bb1a1588d" />
+</div>
 
   This project primarily aims to extract rhymes from Chinese poetry, providing statistical analysis of these rhymes to facilitate poetry enthusiasts' learning of commonly used rhymes by ancient poets and lyricists, thus supporting their own poetry creation. Future expansion will focus on rhyming in rap lyrics. 1. I discovered that the existing Python library pypinyin does not support phonetic loan characters and polyphonic characters, severely hindering Python's role in processing rhyme data from classical poetry. I will mine existing ancient texts and online data to establish a database of phonetic loan characters, using probability statistics and model training to identify this database, thus supporting rhyme extraction. 2. Future development may consider mini-programs and apps. 3. Expanding functionality to provide rhyme data analysis for rap lyrics, including double and triple rhymes, correlations between different vowels, and creating individual analysis reports for lyricists, poets, and rappers, including: commonly used vowels, rhymes, and expanded analysis of rhymes in dialect rap and multilingual rhyme analysis.
 
